@@ -4,3 +4,4 @@
 ## 2020-03-29 17:00:47 - feat(ui): add ui support (9/20)
 ## 2020-04-12 19:51:12 - feat(auth): add auth endpoint (13/20)
 ## 2020-05-02 18:32:25 - feat(auth): add auth endpoint (5/20)
+## 2020-06-14 17:49:09 - feat(auth): create auth handler (3/20)
