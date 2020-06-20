@@ -261,3 +261,4 @@
 ## 2020-04-12 19:51:12 - feat(auth): add auth endpoint (13/20)
 ## 2020-05-02 18:32:25 - feat(auth): add auth endpoint (5/20)
 ## 2020-06-14 17:49:09 - feat(auth): create auth handler (3/20)
+## 2020-06-20 11:19:47 - feat(core): create core handler (6/20)
