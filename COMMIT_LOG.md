@@ -136,3 +136,4 @@
 ## 2020-06-20 11:19:47 - feat(core): create core handler (6/20)
 ## 2020-08-01 20:27:23 - feat(queue): add queue support (15/20)
 ## 2020-08-02 14:08:39 - feat(monitor): implement monitor feature (10/20)
+## 2020-08-08 23:58:16 - feat(alert): add alert support (14/20)
