@@ -140,3 +140,4 @@
 ## 2020-09-05 16:15:43 - feat(metric): create metric handler (8/20)
 ## 2020-09-13 23:54:02 - feat(ci): add ci support (16/20)
 ## 2020-09-19 10:48:15 - feat(docs): implement docs feature (15/20)
+## 2020-09-20 23:32:44 - feat(alert): implement alert feature (4/20)
