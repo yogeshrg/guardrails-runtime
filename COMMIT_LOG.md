@@ -274,3 +274,4 @@
 ## 2020-12-19 14:23:38 - feat(api): create api handler (14/20)
 ## 2021-01-02 11:53:30 - feat(db): add db endpoint (3/20)
 ## 2021-01-02 18:33:32 - feat(auth): implement auth feature (2/20)
+## 2021-01-10 09:17:22 - feat(auth): add auth support (1/20)
