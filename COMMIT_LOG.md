@@ -147,3 +147,4 @@
 ## 2021-01-02 11:53:30 - feat(db): add db endpoint (3/20)
 ## 2021-01-02 18:33:32 - feat(auth): implement auth feature (2/20)
 ## 2021-01-10 09:17:22 - feat(auth): add auth support (1/20)
+## 2021-01-16 23:11:51 - feat(infra): add infra endpoint (1/20)
