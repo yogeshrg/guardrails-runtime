@@ -150,3 +150,4 @@
 ## 2021-01-16 23:11:51 - feat(infra): add infra endpoint (1/20)
 ## 2021-01-23 19:54:31 - feat(worker): add worker endpoint (4/20)
 ## 2021-02-03 14:00:17 - feat(model): add model support
+## 2021-02-07 18:01:28 - feat(config): create config handler (20/20)
