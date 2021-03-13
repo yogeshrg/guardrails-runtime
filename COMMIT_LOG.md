@@ -23,3 +23,4 @@
 ## 2021-01-23 19:54:31 - feat(worker): add worker endpoint (4/20)
 ## 2021-02-03 14:00:17 - feat(model): add model support
 ## 2021-02-07 18:01:28 - feat(config): create config handler (20/20)
+## 2021-03-13 11:01:25 - feat(security): add security endpoint (13/20)
