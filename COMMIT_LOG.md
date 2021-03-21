@@ -25,3 +25,4 @@
 ## 2021-02-07 18:01:28 - feat(config): create config handler (20/20)
 ## 2021-03-13 11:01:25 - feat(security): add security endpoint (13/20)
 ## 2021-03-14 23:59:23 - feat(auth): add auth support (17/20)
+## 2021-03-21 22:07:55 - feat(model): implement model module (10/20)
