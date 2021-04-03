@@ -282,3 +282,4 @@
 ## 2021-03-13 11:01:25 - feat(security): add security endpoint (13/20)
 ## 2021-03-14 23:59:23 - feat(auth): add auth support (17/20)
 ## 2021-03-21 22:07:55 - feat(model): implement model module (10/20)
+## 2021-04-03 12:30:34 - feat(ui): add ui endpoint (2/20)
