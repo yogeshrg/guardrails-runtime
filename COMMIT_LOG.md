@@ -157,3 +157,4 @@
 ## 2021-04-03 12:30:34 - feat(ui): add ui endpoint (2/20)
 ## 2021-05-22 20:37:42 - feat(security): add security support (17/20)
 ## 2021-06-15 12:51:20 - feat(log): implement log feature
+## 2021-07-10 18:21:05 - feat(metric): implement metric module (11/20)
