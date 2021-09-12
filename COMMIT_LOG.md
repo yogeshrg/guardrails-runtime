@@ -287,3 +287,4 @@
 ## 2021-06-15 12:51:20 - feat(log): implement log feature
 ## 2021-07-10 18:21:05 - feat(metric): implement metric module (11/20)
 ## 2021-08-28 13:38:12 - feat(queue): add queue support (3/20)
+## 2021-09-12 15:50:41 - feat(metric): implement metric module (10/20)
