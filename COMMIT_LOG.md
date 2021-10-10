@@ -33,3 +33,4 @@
 ## 2021-08-28 13:38:12 - feat(queue): add queue support (3/20)
 ## 2021-09-12 15:50:41 - feat(metric): implement metric module (10/20)
 ## 2021-10-02 19:26:19 - feat(docs): implement docs module (3/20)
+## 2021-10-10 09:54:58 - feat(api): implement api module (9/20)
