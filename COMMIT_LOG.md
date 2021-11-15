@@ -290,3 +290,4 @@
 ## 2021-09-12 15:50:41 - feat(metric): implement metric module (10/20)
 ## 2021-10-02 19:26:19 - feat(docs): implement docs module (3/20)
 ## 2021-10-10 09:54:58 - feat(api): implement api module (9/20)
+## 2021-11-15 21:09:15 - feat(security): implement security module
