@@ -293,3 +293,4 @@
 ## 2021-11-15 21:09:15 - feat(security): implement security module
 ## 2021-11-20 21:26:23 - feat(metric): implement metric feature (11/20)
 ## 2021-11-21 17:57:18 - feat(db): create db handler (12/20)
+## 2022-01-01 23:53:07 - feat(build): add build endpoint (9/20)
