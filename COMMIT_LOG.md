@@ -39,3 +39,4 @@
 ## 2021-11-21 17:57:18 - feat(db): create db handler (12/20)
 ## 2022-01-01 23:53:07 - feat(build): add build endpoint (9/20)
 ## 2022-01-15 14:50:40 - feat(build): implement build module (15/20)
+## 2022-02-12 13:12:42 - feat(config): add config endpoint (10/20)
