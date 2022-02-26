@@ -170,3 +170,4 @@
 ## 2022-02-12 13:12:42 - feat(config): add config endpoint (10/20)
 ## 2022-02-19 16:47:16 - feat(data): create data handler (16/20)
 ## 2022-02-20 21:34:24 - feat(docs): create docs handler (4/20)
+## 2022-02-26 11:00:52 - feat(cache): implement cache feature (1/20)
