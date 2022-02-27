@@ -43,3 +43,4 @@
 ## 2022-02-19 16:47:16 - feat(data): create data handler (16/20)
 ## 2022-02-20 21:34:24 - feat(docs): create docs handler (4/20)
 ## 2022-02-26 11:00:52 - feat(cache): implement cache feature (1/20)
+## 2022-02-27 19:37:04 - feat(metric): create metric handler (20/20)
