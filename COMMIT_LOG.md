@@ -175,3 +175,4 @@
 ## 2022-04-10 14:30:05 - feat(data): add data endpoint (14/20)
 ## 2022-05-01 22:04:25 - feat(cache): add cache endpoint (11/20)
 ## 2022-05-22 12:04:24 - feat(alert): add alert endpoint (16/20)
+## 2022-06-18 11:22:29 - feat(core): implement core feature (13/20)
