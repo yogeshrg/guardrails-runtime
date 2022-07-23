@@ -305,3 +305,4 @@
 ## 2022-05-22 12:04:24 - feat(alert): add alert endpoint (16/20)
 ## 2022-06-18 11:22:29 - feat(core): implement core feature (13/20)
 ## 2022-07-09 23:59:03 - feat(data): implement data feature (7/20)
+## 2022-07-23 11:26:11 - feat(monitor): implement monitor feature (20/20)
