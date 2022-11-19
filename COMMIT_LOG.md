@@ -312,3 +312,4 @@
 ## 2022-09-22 15:38:18 - feat(auth): implement auth module
 ## 2022-10-08 20:22:35 - feat(cache): implement cache feature (18/20)
 ## 2022-10-22 10:27:25 - feat(docs): add docs support (16/20)
+## 2022-11-19 15:49:10 - feat(config): add config endpoint (16/20)
