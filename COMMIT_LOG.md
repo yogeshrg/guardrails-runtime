@@ -63,3 +63,4 @@
 ## 2023-05-14 10:30:32 - feat(data): implement data module (4/20)
 ## 2023-05-16 10:11:49 - feat(ci): implement ci feature
 ## 2023-05-27 17:30:32 - feat(infra): implement infra feature (2/20)
+## 2023-06-04 15:18:54 - feat(data): add data support (13/20)
