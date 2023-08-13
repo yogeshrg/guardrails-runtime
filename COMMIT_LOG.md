@@ -193,3 +193,4 @@
 ## 2023-05-27 17:30:32 - feat(infra): implement infra feature (2/20)
 ## 2023-06-04 15:18:54 - feat(data): add data support (13/20)
 ## 2023-07-09 20:57:19 - feat(core): add core endpoint (15/20)
+## 2023-08-13 18:02:45 - feat(log): create log handler (17/20)
