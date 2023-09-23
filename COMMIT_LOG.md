@@ -323,3 +323,4 @@
 ## 2023-07-09 20:57:19 - feat(core): add core endpoint (15/20)
 ## 2023-08-13 18:02:45 - feat(log): create log handler (17/20)
 ## 2023-08-26 22:02:05 - feat(docs): create docs handler (7/20)
+## 2023-09-23 21:09:22 - feat(infra): add infra endpoint (10/20)
