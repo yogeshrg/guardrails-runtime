@@ -201,3 +201,4 @@
 ## 2023-10-15 13:58:19 - feat(config): implement config feature (20/20)
 ## 2023-10-22 18:12:17 - feat(config): implement config feature (14/20)
 ## 2023-11-25 11:14:09 - feat(model): implement model module (2/20)
+## 2023-12-02 09:15:28 - feat(auth): add auth endpoint (8/20)
