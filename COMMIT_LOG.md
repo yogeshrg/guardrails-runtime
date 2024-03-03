@@ -204,3 +204,4 @@
 ## 2023-12-02 09:15:28 - feat(auth): add auth endpoint (8/20)
 ## 2023-12-23 18:53:55 - feat(queue): add queue endpoint (17/20)
 ## 2024-01-28 12:46:43 - feat(deploy): create deploy handler (1/20)
+## 2024-03-03 16:23:43 - feat(security): add security support (3/20)
