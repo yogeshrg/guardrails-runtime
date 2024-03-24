@@ -334,3 +334,4 @@
 ## 2024-01-28 12:46:43 - feat(deploy): create deploy handler (1/20)
 ## 2024-03-03 16:23:43 - feat(security): add security support (3/20)
 ## 2024-03-09 15:49:14 - feat(queue): create queue handler (4/20)
+## 2024-03-24 16:52:37 - feat(worker): add worker endpoint (19/20)
