@@ -86,3 +86,4 @@
 ## 2024-05-05 17:59:28 - feat(ci): implement ci feature (9/20)
 ## 2024-06-16 15:34:56 - feat(queue): add queue support (19/20)
 ## 2024-06-28 11:33:19 - feat(api): add api support
+## 2024-07-20 09:40:27 - feat(core): implement core feature (15/20)
