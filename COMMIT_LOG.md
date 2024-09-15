@@ -344,3 +344,4 @@
 ## 2024-06-28 11:33:19 - feat(api): add api support
 ## 2024-07-20 09:40:27 - feat(core): implement core feature (15/20)
 ## 2024-09-13 09:03:52 - feat(ci): implement ci module
+## 2024-09-15 19:27:59 - feat(ui): create ui handler (16/20)
