@@ -368,3 +368,4 @@
 ## 2025-12-07 13:35:38 - feat(infra): add infra endpoint (9/20)
 ## 2025-12-07 22:39:23 - feat(log): add log endpoint (14/20)
 ## 2025-12-21 11:15:42 - feat(data): add data support (18/20)
+## 2026-03-08 11:55:36 - feat(core): add core support (2/20)
