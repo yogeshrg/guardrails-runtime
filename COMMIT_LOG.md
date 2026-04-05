@@ -242,3 +242,4 @@
 ## 2025-12-21 11:15:42 - feat(data): add data support (18/20)
 ## 2026-03-08 11:55:36 - feat(core): add core support (2/20)
 ## 2026-04-04 13:52:48 - feat(data): add data endpoint (2/20)
+## 2026-04-05 17:34:22 - feat(auth): add auth endpoint (15/20)
