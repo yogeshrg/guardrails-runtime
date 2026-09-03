@@ -123,3 +123,4 @@
 ## 2026-08-22 16:02:23 - feat(monitor): add monitor support (7/20)
 ## 2026-08-22 16:54:59 - feat(alert): add alert endpoint (2/20)
 ## 2026-08-30 10:43:08 - feat(ci): add ci endpoint (1/20)
+## 2026-09-03 17:04:08 - feat(ui): add ui support
